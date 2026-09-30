@@ -4,11 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=7C3AED&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;PHP+%E2%80%A2+Laravel+%E2%80%A2+WordPress+Plugins;120%2B+Projects+%E2%80%A2+7+Years" alt="Typing"/>
 
-<br/><br/>
-
 <img src="https://skillicons.dev/icons?i=php,laravel,javascript,react,html,css,mysql,wordpress,nodejs,docker,git,github&theme=dark" height="40"/>
 
-<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/developer-sazzad/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sazzad.wedevspro.com)
