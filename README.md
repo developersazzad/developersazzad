@@ -141,7 +141,7 @@ Open to **Full-Stack / Laravel / PHP / WordPress Plugin** work — remote (EU, U
 [![Portfolio](https://img.shields.io/badge/-Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sazzad.wedevepro.com)
 [![Behance](https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/developersazzad)
 
-**📧 developer.sazzad.me@gmail.com &nbsp;·&nbsp; 📱whatsapp +880 187785-5651**
+**📧 developer.sazzad.me@gmail.com &nbsp;·&nbsp; 📱whatsapp +880 187785-6951**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=EC4899,7C3AED,4F46E5&height=110&section=footer" width="100%"/>
 
